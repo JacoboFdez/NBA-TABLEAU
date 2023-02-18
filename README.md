@@ -29,7 +29,7 @@ Next we show a small example of objects that we are going to find in our visuali
 
 
 
-![](images/RADAR.png)
+![](Images/RADAR.png)
 
 
 In the image above we can differentiate the number of players per country that the NBA has hosted in the last 25 years.
@@ -38,14 +38,14 @@ In the image above we can differentiate the number of players per country that t
 
 To the right of it we see a radar in which the skills of scoring three points, free throws and field goals are marked. One of the main objectives of this Tableau Dashboard has been to try to recreate a radar chart that could compare some players with others.
 
-![](images/VS.png)
+![](Images/VS.png)
 
 
 
 In addition, I wanted this project to have some utility beyond tinkering within it, so I have attached previews of web pages within it to be able to consult current data and have a small informative character.
 
 
-![](images/news.png)
+![](Images/news.png)
 
 The project is in a "beta" version, so updates will be implemented in the future that will bring more content to enrich our work.
 
@@ -63,7 +63,7 @@ Los datos utilizados para realizar este projecto han sido un conjunto de csv`s, 
 
 
 
-![](images/KOBE.gif) 
+![](Images/KOBE.gif) 
 
 
 
